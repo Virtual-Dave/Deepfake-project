@@ -11,8 +11,8 @@ Virtual Dave is a fully open-source deepfake pipeline that converts text into li
 
 ## 📂 Program
 
-> Models are not provided because everything is over 15 GB.
-> **However to test it:** Sign-in URL ( http://172.25.31.90:8501/) will be active **all day Monday**.
-> To test the code the audio file stefan is in this repository.
+> Models and data (≈15 GB) are not included in this repo.  
+> **However to test it:** Sign-in URL (http://172.25.31.90:8501/) will be active **all day Monday**.  
+> To test the code, the audio file `stefan.wav` is included in this repository.
 
 ---
